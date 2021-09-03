@@ -2,19 +2,19 @@
 
 ## Table of Contents
 
-[Machine Learning Trading Bot Overview]()
+[Machine Learning Trading Bot Overview](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#machine-learning-trading-bot-overview)
 
-[Technologies]()
+[Technologies](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#technologies)
 
-[Installation Guide]()
+[Installation Guide](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#installation-guide)
 
-[Project Analysis and Report]()
+[Project Analysis and Report](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#project-analysis-and-report)
 
-[Examples]()
+[Examples](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#examples)
 
-[Contributors]()
+[Contributors](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#contributors)
 
-[License]()
+[License](https://github.com/juzcho/Module_14_Challenge_Machine_Learning_Trading_Bot#license)
 
 
 ---
@@ -153,7 +153,7 @@ Did this new model perform better or worse than the provided baseline model?
 
 #### **Answer**:
 
-* With this Logistic Regression model (our new model), it performed worst because just our accuracy score fell to 52% versus our baseline of 55%. This is with the use of our baseline data. Even our plot on Strategy returns did not do well instead it went down.
+* With this Logistic Regression model (our new model), it performed worst because just our accuracy score fell to 52% versus our baseline of 55%. This is with the use of our baseline data. Even our plot on Strategy returns did not do well instead it decreased.
 
 ![Classification Report - Baseline- Logistic Regression](./Results_images/new_model_logistic_regression/classification_baseline_logistic_regression.png)
 
