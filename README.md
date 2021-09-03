@@ -86,6 +86,10 @@ Once you click ENTER, this will open on your default browser.
 ---
 
 ## Project Analysis and Report
+
+### Summary: When our dateoffset is set at six months with the SVM model, the trading algorithm performed better and even increaseed the Strategy Returns to 1.8. Additionally, even the recall score also increased. Using a different model, a Logistic Regression model, does not improve the results of the algorithm. The details of the models are shown below:
+
+---
  
 ### 1. What impact resulted from increasing or decreasing the training window?
 
@@ -169,6 +173,9 @@ Did this new model perform better or worse than your tuned trading algorithm?
 ![Classification Report - 6 months DateOffset- Logistic Regression](./Results_images/new_model_logistic_regression/classification_matrix_6months_training_data_logistic_regression.png)
 
 ![Actual vs Strategy Returns - 6 months DateOffset Logistic Regression](./Results_images/new_model_logistic_regression/actual_returns_vs_strategy_returns_6month_dateoffset_logistic_regression.png)
+
+
+
 
 ---
 ## Examples
