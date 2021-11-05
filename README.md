@@ -1,4 +1,4 @@
-# **Module 14 Challenge: Machine Learning Trading Bot**
+# **Machine Learning Trading Bot**
 
 ## Table of Contents
 
